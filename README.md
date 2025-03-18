@@ -28,7 +28,7 @@ Before using the tool, make sure:
    - IB Gateway Live: 4001 (Real trading in Gateway)
    - IB Gateway Paper: 4002 (Paper trading in Gateway)
 
-**Important**: Always start with paper trading (ports 7497 or 4002) for testing!
+**Important**: Always start with paper trading (ports 7497 or 4002) for testing! For paper trading limitations, please refer to [IB's documentation](https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#paper-trading-limitations).
 
 ## Data Parameters
 

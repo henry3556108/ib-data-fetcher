@@ -28,7 +28,7 @@ pip install -r requirements.txt
    - IB Gateway 實盤：4001（Gateway 實盤交易）
    - IB Gateway 模擬：4002（Gateway 模擬交易）
 
-**重要提醒**：測試時請務必先使用模擬交易連接埠（7497 或 4002）！
+**重要提醒**：測試時請務必先使用模擬交易連接埠（7497 或 4002）！關於模擬交易的限制，請參考 [IB 官方文件](https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#paper-trading-limitations)。
 
 ## 資料參數
 
