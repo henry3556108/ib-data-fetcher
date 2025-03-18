@@ -1,4 +1,4 @@
-from test import IBDataFetcher
+from ib_data_fetcher import IBDataFetcher
 
 def get_forex_data():
     """Examples of getting forex data"""

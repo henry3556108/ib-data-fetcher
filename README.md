@@ -66,7 +66,7 @@ Example format: '1 Y', '6 M', '10 D'
 ### Basic Usage
 
 ```python
-from test import IBDataFetcher
+from ib_data_fetcher import IBDataFetcher
 
 # Create instance (use port 4001 for live trading, 4002 for paper)
 fetcher = IBDataFetcher(port=4001)

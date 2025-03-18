@@ -1,4 +1,4 @@
-from test import IBDataFetcher
+from ib_data_fetcher import IBDataFetcher
 
 def get_basic_stock_data():
     """Basic examples of getting stock data"""

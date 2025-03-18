@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ### 基本用法
 
 ```python
-from test import IBDataFetcher
+from ib_data_fetcher import IBDataFetcher
 
 # 建立實例（實盤使用 4001，模擬使用 4002）
 fetcher = IBDataFetcher(port=4001)

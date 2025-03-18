@@ -1,4 +1,4 @@
-from test import IBDataFetcher
+from ib_data_fetcher import IBDataFetcher
 
 def get_multiple_stocks():
     """Example of getting data for multiple stocks"""
